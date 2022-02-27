@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A potent vindication for book-making: or An embleme of these distracted times.</title>
+            <author>Browne, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77663</idno>
+            <idno type="STC">Wing B5104</idno>
+            <idno type="STC">Thomason E242_13</idno>
+            <idno type="STC">ESTC R962</idno>
+            <idno type="EEBO-CITATION">99873588</idno>
+            <idno type="PROQUEST">99873588</idno>
+            <idno type="VID">126065</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126065)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E242[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A potent vindication for book-making: or An embleme of these distracted times.</title>
+                  <author>Browne, Edward.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 6: Ed Browne.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A defense of his "A description of an annuall world" (1641) and his "Sacred poems" (1641) against charges of disrespect to his late master, Sir James Cambell, knight.</note>
+                  <note>Published in 1643 as part 5 of his Time well spent.</note>
+                  <note>Annotation on Thomason copy: "nouemb: 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Browne, Edward. --  Description of an annuall world.</term>
+               <term>Browne, Edward. --  Sacred poems.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:126065:1" rendition="simple:additions"/>
+            <head>A Potent vindication for Book-making: or <hi>An Embleme of theſe Diſtracted times.</hi>
+            </head>
+            <div type="part">
+               <p>WHen nights black mantle had excluded and folded up faire <hi>Phoe<g ref="char:EOLhyphen"/>bus</hi> bright luſtre in our Horizon, and expoſed the borrowed ſplendor of horned <hi>Cynthia,</hi> and the twinkling Tapers to our view. And when ſilent ſleep had captivated the ſenſes of many in the Cradle of <hi>Oblivion;</hi> ſolitary <hi>Morpheus</hi> preſented to my ſight a pleaſant Forreſt, where I was no ſooner entred, but ſuch a company of harmonious ecchoes ſounded in my eares from the winged quire, which ſo raviſhed my ſenſes, that I began to imitate their heavenly Tunes; and the firſt which moſt pleaſed me, was the <hi>Golden</hi> ſtraines of the <hi>Finch:</hi> And af<g ref="char:EOLhyphen"/>ter I had obſerved ſome of her raviſhing harmony, I was delighted with the me<g ref="char:EOLhyphen"/>lodious tunes of the <hi>Nightingall, Linnot,</hi> and other birds of rare quality, and could ſo follow their ſtraines, that the heavenly <hi>Phoenix,</hi> the aſpiring <hi>Larke,</hi> and other celeſtiall birds, took notice of my skill. Yet ſom angry Waſps and malicious Hornets began to buz about my eares, and ſought to ſting, but had no power at all to hurt mee. And though the King of beaſts, and others of good and gentle nature, were delighted with our harmonious noyſe, and heavenly mu<g ref="char:EOLhyphen"/>ſicke; yet the politique Cat, crafty Fox, and greedy Wolfe, began to grumble, as envying my happineſſe, and ſeemed more malicious then the poyſonous Ser<g ref="char:EOLhyphen"/>pents and deafe Adders, that lay under my feet, ready to ſting me: for they per<g ref="char:EOLhyphen"/>ſwaded the puiſſant Lyon, and his grave Counſellors, that I was an an idle fellow to leave my imployment at home, and come learne to ſing of birds abroad: (for they did not conſider that this was in the night, when I had finiſhed my worke) Vpon which report their King did quire forſake me, and his faithfull friends ſeemed to be diſpleaſed with me. But I having a love in my worke, would not leave off till I became a perfect quirreſter: and then (with <hi>Morphous</hi>) I laid me downe in bed, and ſweetly ſlept till <hi>Aurora</hi> with-drew nights ſable Curtaine, and began to uſher in the light ſome day, and then I underſtood the meaning ther<g ref="char:EOLhyphen"/>of to be thus, When the night of ignorance and ſelf-conceit had excluded from my underſtanding the ſplendor of many learned famous writers, I having recei<g ref="char:EOLhyphen"/>ved into my ſoule divers good motions from the holy Spirit of God, intimated by the God of dreames, wandred in the Forreſt of my owne imagination and
+<pb n="2" facs="tcp:126065:2"/> by my owne capacity thought to imitate the golden ſtraines of <hi>Sylveſters</hi> hea<g ref="char:EOLhyphen"/>venly harmony, on <hi>Du Bartas</hi> weekly dayes. And having extracted from thence many heavenly leſſons, I inſerted them into my fantaſticke notions. And not ſatisfied therewith, I tooke from melodious <hi>Philomell,</hi> I meane our Booke of <hi>Common Prayer,</hi> (in my conceit not unfitly by mee called the <hi>Nightingall,</hi> be<g ref="char:EOLhyphen"/>cauſe ſome ſay it was uſed to be ſung in the time of Popery, but ſung in a more harmonious manner now in the day of the Goſpell) many Divine leſſons: for however others are, I was, and ſtill am, ſo raviſhed with her variety of ſh<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and heavenly eiaculations, that I became bold to garniſh my <hi>Annua<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> World</hi> there<g ref="char:EOLhyphen"/>with. And from the admirable Meditations and Prayers of Doctor <hi>Featly,</hi> Mr. <hi>Auſtin</hi> and others, I made it ſo compleat with heavenly matter, that the <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nix</hi> of our time for our ſoule raviſhing. Divinity, who is <hi>raro avis in terris,</hi> but ſtill <hi>Holds-worth,</hi> took notice therof, and ſubſcribed my certificate. And not onely he, but the aſpiring <hi>Larke,</hi> our Laureat Poet Mr. <hi>Francis Quarles,</hi> whoſe ſententious and unparaleld verſes ſeeme to penetrate the heavens, approved my labours, as well as the Satyricall and Propheticall Poet, Captaine <hi>George Wi<g ref="char:EOLhyphen"/>ther,</hi> the Saint-like Poet Maſter <hi>Iohn Vicars,</hi> the prime Aſtrologian of our time, Mr. <hi>Iohn Booker,</hi> and that ancient Writer Mr. <hi>Henry Peacham.</hi> And becauſe I ſhould not drowne my <hi>Loving Labours</hi> in the Sea of Oblivion, the <hi>Water Poet</hi> lent me his aſſiſtance over the waters of contempt and diſdaine to the Cape of good Hope, where my little Pinnace lies at Anchor, till a gentle gale of proſ<g ref="char:EOLhyphen"/>perous winde drive her to the deſired haven of Content: Yet I obſerved ſome angry Waſps and fell Hornets to buz about my eares, but durſt not ſhew their ſtings for feare I ſhould make them odious in the ſight of all people: I mean, neither Anabaptiſt, Browniſt, nor any of your new inſpired Doctors, durſt lift pen on paper againſt my <hi>Annuall</hi> world, or Sacred Poems, though they treate of holy dayes, and are ampli<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with the expreſſion of many heathen Poets: for I have the approbation not onely of <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eleſtiall Birds,</hi> but the very beaſts of the Wood liſtned to my tunes; I meane not onely men that were learned, as Prea<g ref="char:EOLhyphen"/>chers and Writers, but honeſt Merchants, and men of ſolid iudgement appro<g ref="char:EOLhyphen"/>ved my labours. And firſt, my late honoured Maſter, whom I compare to the Lyon, not to ſignifie that he was King of men, but as he was ſometime the Kings Maieſties Lieutenant, and Senior Aldermen of this famous Citie a long time; and for iuſtice and mercy, according to my paterne, not unlike the Lyon, of whom I may truly ſay without flattery, That to my knowledge never any <hi>Prae<g ref="char:EOLhyphen"/>tor</hi> governed this famous Citie, or his Houſe, with more iuſtice and clemency,
+<pb n="3" facs="tcp:126065:2"/> then he did. And ſo like the couragious Lyon, who though hee is ſterne to his foes, yet hee is gentle and kinde to his friends: for it is reported that <hi>An<g ref="char:EOLhyphen"/>drodus,</hi> a Roman ſlave, for pulling a thorne out of a Lyons foot, was relei<g ref="char:EOLhyphen"/>ved a long time by the ſame Lyon in his Den, with ſuch proviſion as hee could make, till he was weary of that dreadfull lodging: And then the ſame ſlave returning to his Maſter, for an offence being caſt into the Den of the ſame Lyon, to be devoured, the mercifull beaſt knowing his old acquain<g ref="char:EOLhyphen"/>tance, in ſtead of tearing or aſſaulting him, came and fawned on him. And to ſhew that my Maſter did approve of my workes, when they were done, plainly appeared, (though it is true before out of his love towards mee, hee would not have mee trouble my unlearned braine with ſuch high myſteries) as by his willingneſſe to doe mee good ſo long as he lived, ſo by two notes made a little before his death, wherein he bequeathed me a competent por<g ref="char:EOLhyphen"/>tion which he left his Executors to diſpoſe of as they ſhall think fit. And as hee, ſo moſt of the Aldermen his brethren, as well as his owne and my La<g ref="char:EOLhyphen"/>dies kindred, did approve of the ſame, as appeares by this Certificate fol<g ref="char:EOLhyphen"/>lowing.</p>
+            </div>
+            <div type="imprimatur">
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>EE whoſe names are ſubſcribed, at the humble and ear<g ref="char:EOLhyphen"/>neſt intreaty of</hi> Edward Browne, <hi>late ſervant to Sir</hi> James Cambell, <hi>Knight and Alderman of Lodnon, de<g ref="char:EOLhyphen"/>ceaſed, certifie and declare, that we have peruſed two Bookes of his compoſing, the one intituled an</hi> Annuall World <hi>and</hi> Sacred Poems, <hi>and the other, a</hi> Rare pa<g ref="char:EOLhyphen"/>terne of Juſtice and Mercy, <hi>with a</hi> Meteor and a Starre; <hi>and thereof judge, that hee did not theſe Bookes with any intent to diſhonour his ſaid Maſter, but onely to obtaine his Maſters favour upon his honeſt endeavours, where<g ref="char:EOLhyphen"/>fore we doe commend his expence of ſpare time in ſuch divine matters, and approve of his good meaning in publiſhing his masters charitable Lega<g ref="char:EOLhyphen"/>cies; which is, as he ſaith, onely for his Masters honour, and to induce o<g ref="char:EOLhyphen"/>thers of like worth to doe ſuch judicious, noble, and pious actions.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>All which we teſtifie under our hands <date>the fifteenth day of Auguſt, Anno Dom. 1642.</date> As appeareth on the next page.</hi>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <pb n="4" facs="tcp:126065:3"/>
+                        <head>Knights and Aldermen of London.</head>
+                        <item>
+                           <hi>Geo. Whitmore.</hi>
+                        </item>
+                        <item>
+                           <hi>Nic. Rainton.</hi>
+                        </item>
+                        <item>
+                           <hi>Morris Abbot.</hi>
+                        </item>
+                        <item>
+                           <hi>Edmond Wright.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Cordel.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Soame.</hi>
+                        </item>
+                        <item>
+                           <hi>Iacob Garrad.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Woollaſtone</hi>
+                        </item>
+                        <item>
+                           <hi>George Clarke.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <item>
+                           <hi>Ri. Holdſworth, S. T. D.</hi>
+                        </item>
+                     </list>
+                     <list>
+                        <head>Aldermen, Eſquires &amp; Gentlemen.</head>
+                        <item>
+                           <hi>Gilbert Harriſon.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Adams.</hi>
+                        </item>
+                        <item>
+                           <hi>Abra, Reynardſon.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Bateman.</hi>
+                        </item>
+                        <item>
+                           <hi>Clement Moſs.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Michel.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Wiſeman.</hi>
+                        </item>
+                        <item>
+                           <hi>William Williams.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Walter.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>HEre is above the number of a compleat Iury of eminent men to teſtifie a truth, and therefore needs no more; yet ſuch as did peremptorily re<g ref="char:EOLhyphen"/>fuſe to ſubſcribe this Certificate, I affirme and declare, that they are as un<g ref="char:EOLhyphen"/>chariatble and malicious, as they are proud and covetous. For others, that ſay, My Bookes are <hi>uſeleſſe, having in them light with darkneſſe, holy things and vain, unprofitable things mixed, which are altogether inconſiſtent, &amp; blame me for expending my pretious time in diſhonouring God by Booke-making; be<g ref="char:EOLhyphen"/>cauſe I am not called thereunto.</hi> I will prove they are beſide their Text, and would faine ſeeme to be more wiſe in Religion then they are, like many o<g ref="char:EOLhyphen"/>thers of their garb, who place their religion in idle &amp; impertinent queſtions, and have little or no regard to true devotion which is the life of religion: for ſome who under the mask of religion, detain letchery, pride &amp; covetouſnes. I adviſe them to view their own deformity, before they tax the infirmities of thoſe of better worth then themſelves: For thoſe that ſay my Bookes are <hi>Non ſenſe,</hi> I beleeve they have <hi>No-ſenſe</hi> to doe better. Thoſe that ſay, I have plaid the foole in writing my owne fancy, and expending my time and mo<g ref="char:EOLhyphen"/>ney ſo vainly in printing Bookes; let them underſtand, that the <hi>Foole</hi> is oft<g ref="char:EOLhyphen"/>times the wiſeſt man in the play, becauſe he makes <hi>more fooles</hi> then himſelf laugh, and all that is well ſpent, is not ill loſt. Thoſe that ſay, I ſcold and raile in my pamphlets, know not well what they ſpeak: for I have write no<g ref="char:EOLhyphen"/>thing a but the truth; and that they ſay, muſt not be ſpoke, much leſſe writ at all times. But this is a pittifull age, when truth to convince the folly of men, muſt be ſmothered, and not ſuffered to be ſpoke or writ, though by fooles: for <hi>Archers</hi> coat muſt be puld off, if he ſay lawne ſleeves are durty, and doe not <hi>Laud</hi> them for whiteneſſe when they are cole blacke. And laſt of all, for
+<pb n="5" facs="tcp:126065:3"/> thoſe, who in a cloſe, ſecret, and diſſembling manner, ſeeke to caſt ſome of their envious poyſon of detraction and malice into my friends eares, &amp; ſeem to ſay as they did to my late Maſter, that I ſeeke his and their diſhonour by Book-making, and therfore not worthy to be harboured in an obſcure cham<g ref="char:EOLhyphen"/>ber upon my owne bedding, as I have been this eight yeares and upwards, I neither care nor feare as appeares by this letter following,</p>
+               <p>Sir, I underſtand that you and your friends made good ſport of me and my <hi>Diſaſter,</hi> wherfore to make your mirth compleat, I give you my <hi>Paradox,</hi> and would intreat you, if you have found where the neſt of waſps are, you ſpake of, to tell them from mee, that I chalenge not only them, but all man<g ref="char:EOLhyphen"/>ner of envious creatures, ſuch as your Hornets, Snakes, Scorpions, Dragons, eſpecially deafe Adders, to ſhoot out their poyſon, and advance their ſtings againſt me; for I am perſwaded God hath annointed me with ſuch a ſaving Antidote, and armed me with ſuch puiſſant ſtrength, that I ſhall bee able to pull out their ſtings and repell their venome. For I know that the ſight of a <hi>Baſilisk</hi> ſhall not confound me, the terrour of the <hi>Griffin</hi> ſhall not diſmay me, the cruell <hi>Crocodile</hi> ſhall not affright me, the deceitfull <hi>Hiena</hi> ſhall not beguile me, nor the inchanting <hi>Syrens</hi> ſhall not allure me: no, nor all the di<g ref="char:EOLhyphen"/>vels in hell, or men on earth ſhall be able to hinder me in the way that God hath ſet my feet to walk in, becauſe he hath now taken from my heart a <hi>ſla<g ref="char:EOLhyphen"/>viſh fear,</hi> and would not ſuffer me neither day nor night, to take my reſt, till I had performed this work, which I am ſure he hath called me unto: For it is lawfull for any to write, though not to preach. The reaſon is plaine, becauſe a man in a pulpit may imagine he hath a Spirit of Revelation, which he hath not, and therefore ſometime in an abſurd extaſie of zeale may vociferate and babble hee knowes not what himſelfe, except he bee a man of rare parts, that hath premeditated and ſet his words well in order before. But if a man write, that truly ſhewes his mind: for he hath laid his words in the ballance of his reaſon and underſtanding, and will not bee aſhamed of his worke, except hee be a Dunce or a Coward. And therefore I neirher feare the roaring <hi>Lyon,</hi> the ravening <hi>Beare,</hi> the ſtately <hi>Elephant,</hi> the cruell <hi>Boare,</hi> the puiſſant <hi>V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>corne,</hi> the couragious <hi>Horſe,</hi> the angry <hi>Leopard,</hi> the fierce <hi>Tyger,</hi> the devou<g ref="char:EOLhyphen"/>ring <hi>Wolfe,</hi> the ſnarling <hi>Dogge,</hi> the polirique <hi>Cat,</hi> the crafty <hi>Fox,</hi> or the ſtrong <hi>Oxe,</hi> ſhall be able to hurt me, my Bookes or my <hi>Paradox:</hi> for I have armour of proofe, that their fangs nor talons cannot teare. I have skilfull courage to avoid their policie, and defeat their ſtrength. And I have a ſword as <hi>Sharp</hi>
+                  <pb n="6" facs="tcp:126065:4"/> as a raizor, that where <hi>Haire-is,</hi> it ſhall ſo neatly ſhave thoſe that offer to abuſe me, that they ſhall appeare like bald Friers; and if they will not then be ruled, it ſhall cut off their heads, and make them little better then Divels. I have like<g ref="char:EOLhyphen"/>wiſe hot fiery pellets, which well diſcharged out of my peece, ſhall make their heads ake, and their bellies <hi>Wamble.</hi> And I have ſuch a Polax, which will <hi>Peck, Pierce</hi> and <hi>Hough</hi> the ſtrongeſt armour of the beſt <hi>Smiths</hi> forging. And this I write, to <hi>Warne</hi> them to take heed how they offer to ſtirre: for beſides this my <hi>Militia,</hi> which is void of <hi>Malitia,</hi> I have <hi>Commiſſion of Array,</hi> to traine, mu<g ref="char:EOLhyphen"/>ſter, and <hi>Marſhall</hi> my forces againſt all oppoſites; who, as angry whelpes, re<g ref="char:EOLhyphen"/>ſpecting no perſons, will ſo <hi>Touze</hi> and trample upon them, that though they were arraied in Silk, Sattin, or Cloth of Gold, they ſhall appeare as ragged Beg<g ref="char:EOLhyphen"/>gars. And yet I have not told you all my Ammunition: for I have likewiſe a <hi>Bur</hi> to caſt on my enemies <hi>tongues,</hi> and ſticke in their <hi>throats,</hi> that they ſhall not be able to ſpeake. I have a hard knotty <hi>ſtick,</hi> with which I will ſo <hi>Baſt</hi> them, that the <hi>Print</hi> thereof ſhall remaine a long time after. I have ſharp vinegar to waſh their <hi>rotten teeth,</hi> that they ſhall not dare to grin: And I have as <hi>Smart</hi> a Satyricall ſcourge, as the beſt <hi>Carter,</hi> which ſhall pull the skin from their bones, and breed <hi>Pain</hi> in their whole man: that though they may now ſeeme as <hi>Bright</hi> as Angels, they ſhall then appeare as loathſome as Lepers; And though one may now ſeeme like a <hi>Burgeſſe,</hi> when I have unmasked him, hee ſhall then appeare like. <hi>A. Taylor:</hi> For I am confident to convince all that ſhall abuſe me for Book-making, and make them in ſuch a <hi>Caſe,</hi> as they were never in ſince they came from <hi>Holme, I</hi> mean ſince they came from their <hi>Owen</hi> true Proteſtant Reli<g ref="char:EOLhyphen"/>gion in England, to the hypocritical ſociety of Amſterdam, Geneva, Scotland, &amp;c. Thus have I paſſed over the <hi>Wells</hi> of danger, to <hi>Good-wins</hi> ſafe harbour, with<g ref="char:EOLhyphen"/>out licence from <hi>Sedge-week.</hi> Commending this to your ſerious conſideration I reſt,</p>
+               <closer>
+                  <signed>Yours in all Chriſtian obſervance, ED. BROWNE</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>IF any <hi>Say,</hi> that by the <hi>Penning</hi> of theſe expreſſion, I meane particular per<g ref="char:EOLhyphen"/>ſons, and therefore will not <hi>Brook</hi> them, but fret and fume, whinper and <hi>Pym<g ref="char:EOLhyphen"/>per,</hi> let them in a patient temper ſhew me wherein they are offended, and it ſhall be ordered for their ſatisfaction, and all the world, That their anſwer with my reply ſhall be forthwith printed and publiſhed.</p>
+               <closer>Per. Cl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. Dulm. Ignor.</closer>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:126065:4"/>
+               <p>NOw courteous Reader, pray conſider, how could I better vindicate my B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oke<g ref="char:EOLhyphen"/>making, and ſo free my ſelf from falling into theſe po<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>t calumniators pawes, then by printing theſe my confuſed notions, which I am confident they dare not, anſwere for by private writings they might ſlily have fought r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vengem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt to my great dam<g ref="char:EOLhyphen"/>mage; but in a publique way they will not offer to ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe me, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt they be too notori<g ref="char:EOLhyphen"/>ous. Therefore leaving them, I will declare how my wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks and theſe diſtracted times agree together: For I may not unfitly compare my Bookes to the true <hi>Proteſtant</hi> Re<g ref="char:EOLhyphen"/>ligion, and my ſelfe to the Imperious Clergy, and hypocriticall profeſſors; for as my minde is almoſt diſtracted by diſaſtrous l<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>es on the one fide, and a malignant party on the other, yet my bookes ſtand unblameable in the midſt, though they may ſeeme to have ſome blemiſhes in f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cy, yet ſimilies and illuſtrations (though fabulous) in ſignification, makes the matter more pleaſant and delightfull: So theſe times are diſtra<g ref="char:EOLhyphen"/>cted by <hi>Popery &amp; Armi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ianiſme,</hi> who have loſt much of the Churches glory, on the one ſide, and <hi>Anabaptists, Browniſts</hi> and <hi>Sectaries,</hi> as a malignant party on the other, yet the true <hi>Proteſtant</hi> Religion ſtands ſtill upright in the midſt, though ſhe may ſeeme to have ſpots in outward worſhip; In the ſignification thereof to a devout heart, makes her more beautifull and amiable. For further illuſtration hereof, as it is apparant, that our Prelaticall Clergy ſought to erect an Arminian Hierarchy, if not Papiſticall Ido<g ref="char:EOLhyphen"/>latry, in theſe thtee Kingdomes of England, Scotland, and Ireland, by impoſing uſeleſſe ceremonies by their Canonicall Oath, &amp;c. by their 2s. and 9d. Tythe, by their inſul<g ref="char:EOLhyphen"/>ting pride in Spirituall Courts, by their Lordly habits of Sattin, Silke and Velvet, farre different from Chriſt and his Apoſtles humility, &amp;c. So it is conſpicuous likewiſe, that theſe Presbyter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an Doctors do now aſſume to themſelves ſuch a Spirit of Revelation, that whatſoever they foment againſt Church and State, muſt be taken for pure Divini<g ref="char:EOLhyphen"/>ty, though it be faction, rebellion and ſchiſme. Thus for a trifling ceremony, where<g ref="char:EOLhyphen"/>with every Chriſtian Church in the world differs in one kinde or other, thoſe affirme and declare, that there can be no reformation without reſiſting and oppoſing ſupreme authority. And this they maintaine with a ſtrong hand, and grow very proud and im<g ref="char:EOLhyphen"/>perio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; and what their haughty inſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lence will ariſe unto, it is not yet kn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn; but it is to be feared, confuſion both of this flouriſhing Church and Common-weal. For they are not aſhamed to affirme, That Reformation cannot bee eſtabliſhed without blood; and therefore to put out the light of our eyes and ſtop the breath of our noſtrills, the ſupreme head of theſe three Kingdoms, our gracious Soveraigne whoſe vertues are un<g ref="char:EOLhyphen"/>paraleld, and learning excellently admirable ſeeke to ſtop all paſſages of peace and re<g ref="char:EOLhyphen"/>conciliation between him and his people, and will not ſuffer a little paper to be printed in his owne Preſſe, or any others that ſpeake truth, but admit, or at leaſt ſuffer ly<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng and ſcandalous Pamphlets againſt his perſon, government, and royall proceedings; and under pretence of fighting againſt Prince <hi>Robert,</hi> Cavaliers and Papiſts, they ſeeke to deſtroy all inge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious ſpirits and learned men, What ſhall we ſay to theſe things? Is there not enough noble and innocent blood on both ſides ſhed already? Are theſe peo<g ref="char:EOLhyphen"/>ple blood-thirſty? Are they inſatiable? pray judge. What would they doe if all power were in their owne hands? Are theſe things equall? Did we ever read or heare, that that Religion can be good which is eſtabliſhed by blood? Truly, I doubt the doctrine
+<pb n="8" facs="tcp:126065:5"/> as much as the practiſe of thoſe who are eſteemed great Profeſſors, Saints, and Pro<g ref="char:EOLhyphen"/>phets of the time, God grant they may profeſſe leſſe, but doe more: for what needs warre, when both King and Parliament affirme and declare, That they endevour to maintaine the true Proteſtant Religion, the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>afety and honour of the Kings ſacred per<g ref="char:EOLhyphen"/>ton crowne and dignity, the rights and priviledges of Parliament, and liberty of the Subject? But now I am in a great ſtrait, for ſome ſay, even to my face, that writing a<g ref="char:EOLhyphen"/>gainſt hypocrits, I write againſt the Parliament; but God knowes my heart is free from that ſcandall: for I honour every worthy member thereof, and with the rotten limbs were cut off that diſturb the Church and State: And on the other ſide, in ſpeaking a<g ref="char:EOLhyphen"/>gainſt Biſhops, I ſpeake againſt the King, which is likewiſe cleare to the contrary: for I wiſh, that my life (for his ſake) might end this quarrell. Are not theſe the laſt times, <hi>when a mans enemies are thoſe of the ſame houſe,</hi> as Chriſt propheſied? What ſhall I do? I would fain leave, but cannot my mind is as a veſſell filled with new Wine, and it muſt have vent: for my words may be milconſtrued, my writings cannot juſtly be con<g ref="char:EOLhyphen"/>demned by indiffrent men, therfore ſeeing our Poeticall Captaines Satyr hath loſt his ſcourge, and our laureat Poets will have no bitterneſſe in their ſweet expreſſions. God, who opened the mouth of the dumb Aſſe, and makes infants to ſpeake to his praiſe, hath ſtirred up my unlearned quill to doe all theſe workes to his glory, good or others, and comfort of my owne foule. I will not feare to declare not only mine, but the opini<g ref="char:EOLhyphen"/>on of all godly, zealous learned men in the world that the Church of England as it hath been governed and eſtabliſhed by Act of Parliament theſe fourſcore yeares and up<g ref="char:EOLhyphen"/>wards, was the moſt true Catholike Chriſtian religion in the world, both in purity of doctrine and decent orderly ceremonies, and therefore could wiſh that all privat Con<g ref="char:EOLhyphen"/>venticles, and <hi>cloſe Meetings</hi> againſt King and Parliament, were diſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lved, that there might be a free debate according to ancient cuſtome, that both King and Parliament (laying aſide all by-reſpects) would joyn together, and endeavour to root out all Papi<g ref="char:EOLhyphen"/>ſticall Idolatry, and Arminian pride in <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>opacy, all ſchiſmaticall faction and apparant hypocriſie in thoſe who are eſteemed Puritans, and ſpeedily ſettle ſuch a Proteſtant re<g ref="char:EOLhyphen"/>ligion, that England may again retain its former ſplend of, and not as now it is a hiſſing and a by-word to other nations, even an Aceldama of Chriſtian blood; but none can bring this to paſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, but God onely. And therefore for concluſion of all my printed la<g ref="char:EOLhyphen"/>bor, except it be to anſwer my malignant party, I wil, &amp; ſo all good people ſhould, both day &amp; night pray God to ſend peace in our dayes that the light of the Goſpell may ſtill ſhine amongſt us in burning &amp; ſhining lamps, that the voyce of the Turtle may ſtil con<g ref="char:EOLhyphen"/>tinue to be heard in our ſtreets from able and zealous Divines that the King and all people may unite their forces together, for compoſing of our differences, for the hea<g ref="char:EOLhyphen"/>ling of our diſtractions, for the making up of the many breaches in Church and State, and for the eſtabliſhment of the foundation thereof on the word of God, that ſo being as a houſe built on ſuch a rock though the winde of forraigne invaſion blow, the raine of civill diſſention fall, and the floods of internall malice roare, and lift up their voyce, yet the houſe that is built upon Chriſt, the corner ſtone thereof ſhall ſtand, and the gates of hell ſhall not prevaile againſt it.</p>
+               <closer>Amen. So be it.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
